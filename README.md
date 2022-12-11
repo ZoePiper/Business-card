@@ -1,13 +1,14 @@
-# coadc46fd8eea5670c9e8a728
+# Business-Card
+What have I learned:
+<ul>
+  <li>Image Alt text</li>
+    <li>Flex child container</li>
+    <li>Inheritance</li>
+  <li>Shorthands</li>
+  <li>Web safe fonts</li>
+    <li>Color palette</li>
+  </ul>
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
